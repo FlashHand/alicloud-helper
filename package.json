@@ -1,0 +1,14 @@
+{
+  "name": "aliyun-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:FlashHand/aliyun-helper.git",
+  "author": "Wang Bo <ralwayne@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/qs": "^6.9.6",
+    "axios": "^0.21.1",
+    "dayjs": "^1.10.5",
+    "qs": "^6.10.1"
+  }
+}
